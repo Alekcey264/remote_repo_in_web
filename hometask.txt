@@ -1,0 +1,3 @@
+Отличия между master и demo:
+В readmе-файле ветки master есть дополнительный текст "with nice buttons on his jacket (buttons branch)" и нет точки в конце предложения.
+
