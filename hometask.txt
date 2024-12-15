@@ -1,3 +1,16 @@
 Отличия между master и demo:
 В readmе-файле ветки master есть дополнительный текст "with nice buttons on his jacket (buttons branch)" и нет точки в конце предложения.
 
+Всего видно 11 коммитов:
+Их хэши и комментарии (от перевого к последнему):
+1. 7d5cd9d87337dcd48708dce597a3c0566cb349ef - init
+2. 949c4a16dbb5cd482965537bfb1558e078afd252 - heat added
+3. 152f859ca641e70864aa907bc1f5b1ba3b27acd9 - boots
+4. 079fa1b2baa18b6a7a03ff3a7d00e9fca4d43a0c - README added
+5. 1db7b7a68098af0fd01a77aca5f808a817d5c2e3 - dots
+6. df455a79680d70a43d65351f338e25d0ef26c169 - fix README
+7. 203e94588895444e6f2b40857c83979dedc3d09b - Merge commit '152f859ca641e70864aa907bc1f5b1ba3b27acd9' into boots_buttons
+8. 2f4be28fb9f6d5f11a3e25928dc88a6eff52adc9 - Merge commit '1db7b7a68098af0fd01a77aca5f808a817d5c2e3' into boots_buttons
+9. e49a0eaed8daa6b43680f429ac217f08d71d6f84 - Merge commit '949c4a16dbb5cd482965537bfb1558e078afd252'
+10. e401178628877a2c76fb518d16ea1fa2067f9b3f - Merge commit '2f4be28fb9f6d5f11a3e25928dc88a6eff52adc9'
+11. a69946d4216b2e58076b47ae6d69520ff72d9d7d - add first hometask answer
